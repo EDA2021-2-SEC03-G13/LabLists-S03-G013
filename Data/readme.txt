@@ -1,1 +1,2 @@
-En este directorio van los datos de prueba de los proyectos
+req.2- Santiago Rodriguez, 202110340, s.rodriguezr234@uniandes.edu.co
+req 3- 
